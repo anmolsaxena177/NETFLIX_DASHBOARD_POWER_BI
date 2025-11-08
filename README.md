@@ -18,7 +18,7 @@
 
 Dashboard: 
 
-<a href="https://github.com/guntassinghgs/Visualizing_netflix_dataset_Power_BI-/blob/main/dashboard%20netflix%20data%20screenshot.png">Dashboard Screenshot</a>
+<a href="https://github.com/anmolsaxena177/NETFLIX_DASHBOARD_POWER_BI/blob/main/dashboard%20netflix%20data%20screenshot.png">Dashboard Screenshot</a>
 
 <a href="https://github.com/guntassinghgs/Visualizing_netflix_dataset_Power_BI-/blob/main/dashboard%20netflix%20data%20screenshot.png">Power BI file</a>
 
